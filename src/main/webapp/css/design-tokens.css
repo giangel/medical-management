@@ -1,0 +1,69 @@
+/* File: WebContent/css/design-tokens.css */
+
+:root {
+    /* Color */
+    --color-bg: #FAF7F1;
+    --color-surface: #FFFFFF;
+    --color-surface-alt: #F1ECE1;
+    --color-ink: #20281F;
+    --color-ink-muted: #5C6B5E;
+    --color-ink-faint: #8B968A;
+
+    --color-primary: #2F6F5E;
+    --color-primary-dark: #204F42;
+    --color-primary-light: #E3EFE9;
+
+    --color-accent: #C97A4A;
+    --color-accent-light: #F5E4D8;
+
+    --color-success: #2F7A4F;
+    --color-success-bg: #E4F2E8;
+    --color-warning: #B9812B;
+    --color-warning-bg: #FBF0DC;
+    --color-error: #B23B3B;
+    --color-error-bg: #FBE8E6;
+    --color-info: #3D6CB0;
+    --color-info-bg: #E6EEF9;
+
+    --color-border: #E3DDCF;
+    --color-border-strong: #C9C1AE;
+
+    /* Typography */
+    --font-heading: Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', serif;
+    --font-body: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+
+    --text-xs: 0.75rem;
+    --text-sm: 0.875rem;
+    --text-base: 1rem;
+    --text-lg: 1.125rem;
+    --text-xl: 1.375rem;
+    --text-2xl: 1.75rem;
+    --text-3xl: 2.25rem;
+    --text-4xl: 3rem;
+
+    /* Spacing */
+    --space-1: 0.25rem;
+    --space-2: 0.5rem;
+    --space-3: 0.75rem;
+    --space-4: 1rem;
+    --space-5: 1.5rem;
+    --space-6: 2rem;
+    --space-8: 3rem;
+    --space-10: 4rem;
+    --space-12: 6rem;
+
+    /* Shape */
+    --radius-sm: 6px;
+    --radius-md: 12px;
+    --radius-lg: 20px;
+    --radius-pill: 999px;
+
+    /* Shadow */
+    --shadow-sm: 0 1px 2px rgba(32, 40, 31, 0.06);
+    --shadow-md: 0 6px 20px rgba(32, 40, 31, 0.08);
+    --shadow-lg: 0 16px 40px rgba(32, 40, 31, 0.12);
+
+    /* Layout */
+    --content-width: 1120px;
+    --nav-height: 72px;
+}
